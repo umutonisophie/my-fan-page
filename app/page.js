@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Hero
-      title="GEMS"
+      title="GEMS & BRACES"
       tagline="Ditch the ordinary and level up your smile. "/>
       
       <CardGrid items={items} />
